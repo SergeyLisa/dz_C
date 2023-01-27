@@ -1,0 +1,15 @@
+D:\git_Visual\dz_C#\dz1_task1\bin\Debug\net6.0\dz1_task1.exe
+D:\git_Visual\dz_C#\dz1_task1\bin\Debug\net6.0\dz1_task1.deps.json
+D:\git_Visual\dz_C#\dz1_task1\bin\Debug\net6.0\dz1_task1.runtimeconfig.json
+D:\git_Visual\dz_C#\dz1_task1\bin\Debug\net6.0\dz1_task1.dll
+D:\git_Visual\dz_C#\dz1_task1\bin\Debug\net6.0\dz1_task1.pdb
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\dz1_task1.csproj.AssemblyReference.cache
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\dz1_task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\dz1_task1.AssemblyInfoInputs.cache
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\dz1_task1.AssemblyInfo.cs
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\dz1_task1.csproj.CoreCompileInputs.cache
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\dz1_task1.dll
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\refint\dz1_task1.dll
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\dz1_task1.pdb
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\dz1_task1.genruntimeconfig.cache
+D:\git_Visual\dz_C#\dz1_task1\obj\Debug\net6.0\ref\dz1_task1.dll
